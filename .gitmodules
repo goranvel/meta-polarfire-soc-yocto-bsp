@@ -1,9 +1,6 @@
-[submodule "openembedded"]
-	path = openembedded
-	url = git@github.com:openembedded/openembedded.git
 [submodule "meta-openembedded"]
 	path = meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded
-[submodule "openembedded-core"]
-	path = openembedded-core
-	url = git@github.com:openembedded/openembedded-core.git
+[submodule "poky"]
+	path = poky
+	url = git@github.com:goranvel/poky.git
