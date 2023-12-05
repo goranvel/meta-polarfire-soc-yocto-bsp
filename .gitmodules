@@ -8,4 +8,5 @@
 	branch = kirkstone
 [submodule "meta-security"]
 	path = meta-security
-	url = git://git.yoctoproject.org/meta-security
+	url = git://git.yoctoproject.org/meta-security.git
+	branch = kirkstone
