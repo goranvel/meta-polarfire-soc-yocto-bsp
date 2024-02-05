@@ -17,14 +17,11 @@ The complete User Guides for each development platform, containing board and boo
 
 Before continuing, ensure that the prerequisite packages are present on your system. Please see the [Host PC setup for Yocto section](#Dependencies) for further details.
 
+## Download the image
+
+[Click here to download the wic file produced by this repo](https://drive.google.com/file/d/1DP1mkdXza-ZnZoWExsdmHqCuyAVW_mCr/view?usp=sharing)
 ### Create the Workspace
 
-This needs to be done every time you want a clean setup based on the latest BSP.
-
-```bash
-$ mkdir yocto-dev && cd yocto-dev
-$ repo init -u https://github.com/polarfire-soc/polarfire-soc-yocto-manifests.git -b 2023.09 -m default.xml
-```
 
 ### Update the repo workspace
 
